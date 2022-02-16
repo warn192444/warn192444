@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Hi%who)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Hi%there&animation=fadeIn)
 ## Hi there 👋
 ### I'm Phawit Pukamkom :kissing_heart:
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&section=footer)
