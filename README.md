@@ -1,7 +1,9 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Hi%20there&animation=twinkling&desc=Welcome%20to%20my%20github%20profile.&height=180&fontAlign=81&fontAlignY=30&descAlign=80&descAlignY=48&color=2C3E50)
-## Hi there 👋
-### I'm Phawit Pukamkom :kissing_heart:
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&section=footer)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:EECDA3,100:EF629F&text=Hi%20there&animation=twinkling&desc=Welcome%20to%20my%20github%20profile.&height=180&fontAlign=81&fontAlignY=30&descAlign=80&descAlignY=48)
+## My name is Phawit Pukamkom
+🤔 I’m currently interesting in blockchain technology.
+
+:school: I'm currently studying at King Mongkut's University of Technology Thonburi.
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:EECDA3,100:EF629F&section=footer)
 
 <!--
 **warn192444/warn192444** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
