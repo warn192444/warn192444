@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:EECDA3,100:EF629F&text=Hi%20there&animation=twinkling&desc=Welcome%20to%20my%20github%20profile.&height=180&fontAlign=81&fontAlignY=30&descAlign=80&descAlignY=48)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:EECDA3,100:EF629F&text=Hi%20there&animation=twinkling&desc=Welcome%20to%20my%20github%20profile.&height=180&fontAlign=81&fontAlignY=30&descAlign=80&descAlignY=48&fontColor=e3c8d4)
 ## My name is Phawit Pukamkom
 🤔 I’m currently interesting in blockchain technology.
 
